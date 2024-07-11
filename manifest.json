@@ -1,7 +1,7 @@
 {
-	"name": "GarageBand",
-	"short_name": "GarageBand",
-	"description": "GarageBand",
+	"name": "早押し計算",
+	"short_name": "早押し計算",
+	"description": "早押し計算",
 	"start_url": "./index.html",
 	"display": "standalone",
 	"theme_color": "#182246",
