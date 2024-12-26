@@ -6,7 +6,7 @@
 	"display": "standalone",
 	"theme_color": "#182246",
 	"background_color": "#182246",
-	"orientation": "any",
+	"orientation": "landscape",
 	"icons": [
 		{
 			"src": "./appicon.png",
