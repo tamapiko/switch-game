@@ -2,9 +2,9 @@
 	"name": "早押し計算",
 	"short_name": "計算ゲーム",
 	"description": "早押し計算アプリで計算スキルを鍛えよう！",
-	"start_url": "/index.html",
+	"start_url": "./index.html",
 	"display": "standalone",
-	"theme_color": "#a8d7ff",
+	"theme_color": "#182246",
 	"background_color": "#a8d7ff",
 	"orientation": "landscape",
 	"icons": [
@@ -15,5 +15,5 @@
 		}
 	],
 	"scope": "/",
-	"background_color": "#a8d7ff"
+	"background_color": "#ffffff"
 }
